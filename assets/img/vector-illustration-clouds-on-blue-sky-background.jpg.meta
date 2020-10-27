@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "96998476-5624-4d0e-a5c4-5bce94f10e4e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "vector-illustration-clouds-on-blue-sky-background": {
+      "ver": "1.0.3",
+      "uuid": "83f6937e-c2f8-4858-820b-295dd54a44d1",
+      "rawTextureUuid": "96998476-5624-4d0e-a5c4-5bce94f10e4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 653,
+      "height": 490,
+      "rawWidth": 653,
+      "rawHeight": 490,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

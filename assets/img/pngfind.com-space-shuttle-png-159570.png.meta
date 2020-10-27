@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c9a996b4-e96d-470e-9080-cbeed59b3e0f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pngfind.com-space-shuttle-png-159570": {
+      "ver": "1.0.3",
+      "uuid": "ac08bb3e-9082-4f8d-9bea-825b1755b5eb",
+      "rawTextureUuid": "c9a996b4-e96d-470e-9080-cbeed59b3e0f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 3214,
+      "height": 2640,
+      "rawWidth": 3215,
+      "rawHeight": 2641,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

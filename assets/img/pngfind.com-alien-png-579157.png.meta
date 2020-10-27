@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "60e89b06-3fdf-4d38-a78b-c6df4496d0a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pngfind.com-alien-png-579157": {
+      "ver": "1.0.3",
+      "uuid": "698ff447-cf67-49a5-a603-1ea41a0a1ce7",
+      "rawTextureUuid": "60e89b06-3fdf-4d38-a78b-c6df4496d0a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1183,
+      "height": 1475,
+      "rawWidth": 1183,
+      "rawHeight": 1475,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

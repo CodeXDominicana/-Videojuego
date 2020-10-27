@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "441d2149-cf7f-4498-9fac-fc1b98a8a815",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pinkBallon_00001": {
+      "ver": "1.0.3",
+      "uuid": "323622f1-129a-4142-868b-a2831d659d52",
+      "rawTextureUuid": "441d2149-cf7f-4498-9fac-fc1b98a8a815",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -227,
+      "offsetY": -54.5,
+      "trimX": 332,
+      "trimY": 211,
+      "width": 162,
+      "height": 407,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

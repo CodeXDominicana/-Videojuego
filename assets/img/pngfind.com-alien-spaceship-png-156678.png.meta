@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "764da367-7a12-4dbe-9dbe-2841aae7d169",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pngfind.com-alien-spaceship-png-156678": {
+      "ver": "1.0.3",
+      "uuid": "ec14a598-178c-48f3-8034-d9510d143c71",
+      "rawTextureUuid": "764da367-7a12-4dbe-9dbe-2841aae7d169",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 999,
+      "height": 636,
+      "rawWidth": 999,
+      "rawHeight": 636,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

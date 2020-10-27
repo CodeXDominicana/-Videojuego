@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "96557f51-a49b-408b-8f43-eda4178092d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pngfind.com-explosion-png-transparent-16930": {
+      "ver": "1.0.3",
+      "uuid": "78960a7f-1f2a-4db0-9587-29e12457d773",
+      "rawTextureUuid": "96557f51-a49b-408b-8f43-eda4178092d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 3261,
+      "height": 3071,
+      "rawWidth": 3262,
+      "rawHeight": 3072,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
